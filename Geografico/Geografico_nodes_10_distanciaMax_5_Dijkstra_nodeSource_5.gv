@@ -1,0 +1,21 @@
+digraph Geografico_nodes_10_distanciaMax_5_Dijkstra_nodeSource_5 {
+"nodo_9" [label="nodo_9 (32)"];
+"nodo_4" [label="nodo_4 (15)"];
+"nodo_1" [label="nodo_1 (5)"];
+"nodo_7" [label="nodo_7 (1)"];
+"nodo_0" [label="nodo_0 (11)"];
+"nodo_2" [label="nodo_2 (6)"];
+"nodo_6" [label="nodo_6 (13)"];
+"nodo_8" [label="nodo_8 (19)"];
+"nodo_3" [label="nodo_3 (8)"];
+"nodo_5" [label="nodo_5 (0)"];
+"nodo_4" -> "nodo_9" [weight=17];
+"nodo_7" -> "nodo_1" [weight=4];
+"nodo_2" -> "nodo_0" [weight=5];
+"nodo_0" -> "nodo_6" [weight=2];
+"nodo_2" -> "nodo_8" [weight=13];
+"nodo_7" -> "nodo_4" [weight=14];
+"nodo_5" -> "nodo_3" [weight=8];
+"nodo_5" -> "nodo_2" [weight=6];
+"nodo_5" -> "nodo_7" [weight=1];
+}

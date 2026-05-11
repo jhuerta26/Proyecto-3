@@ -1,0 +1,21 @@
+digraph Gilbert_nodes_10_probability_0.6_Dijkstra_nodeSource_5 {
+"nodo_6" [label="nodo_6 (18)"];
+"nodo_4" [label="nodo_4 (13)"];
+"nodo_9" [label="nodo_9 (21)"];
+"nodo_3" [label="nodo_3 (23)"];
+"nodo_1" [label="nodo_1 (16)"];
+"nodo_8" [label="nodo_8 (18)"];
+"nodo_0" [label="nodo_0 (12)"];
+"nodo_7" [label="nodo_7 (15)"];
+"nodo_5" [label="nodo_5 (0)"];
+"nodo_2" [label="nodo_2 (14)"];
+"nodo_4" -> "nodo_6" [weight=5];
+"nodo_4" -> "nodo_9" [weight=8];
+"nodo_9" -> "nodo_3" [weight=2];
+"nodo_4" -> "nodo_1" [weight=3];
+"nodo_0" -> "nodo_8" [weight=6];
+"nodo_5" -> "nodo_7" [weight=15];
+"nodo_5" -> "nodo_2" [weight=14];
+"nodo_5" -> "nodo_4" [weight=13];
+"nodo_5" -> "nodo_0" [weight=12];
+}

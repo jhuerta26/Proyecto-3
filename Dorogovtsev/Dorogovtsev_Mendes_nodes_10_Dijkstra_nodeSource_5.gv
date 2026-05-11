@@ -1,0 +1,21 @@
+digraph Dorogovtsev_Mendes_nodes_10_Dijkstra_nodeSource_5 {
+"nodo_9" [label="nodo_9 (50)"];
+"nodo_7" [label="nodo_7 (25)"];
+"nodo_8" [label="nodo_8 (40)"];
+"nodo_0" [label="nodo_0 (12)"];
+"nodo_1" [label="nodo_1 (8)"];
+"nodo_6" [label="nodo_6 (21)"];
+"nodo_3" [label="nodo_3 (20)"];
+"nodo_4" [label="nodo_4 (16)"];
+"nodo_2" [label="nodo_2 (4)"];
+"nodo_5" [label="nodo_5 (0)"];
+"nodo_7" -> "nodo_9" [weight=25];
+"nodo_7" -> "nodo_8" [weight=15];
+"nodo_1" -> "nodo_0" [weight=4];
+"nodo_0" -> "nodo_7" [weight=13];
+"nodo_3" -> "nodo_6" [weight=1];
+"nodo_0" -> "nodo_4" [weight=4];
+"nodo_1" -> "nodo_3" [weight=12];
+"nodo_2" -> "nodo_1" [weight=4];
+"nodo_5" -> "nodo_2" [weight=4];
+}
